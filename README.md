@@ -24,3 +24,12 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+```markdown
+## Visualization
+
+### Cost Distribution
+![Histogram](images/histogram.png)
+
+### Risk Driver (Tornado Chart)
+![Tornado](images/tornado.png)
